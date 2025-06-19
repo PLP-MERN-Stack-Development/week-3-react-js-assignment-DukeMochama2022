@@ -103,19 +103,8 @@ Build a responsive React application using JSX and Tailwind CSS that demonstrate
 ![Posts Screenshot](screenshots/Screenshot%203.png)
 
 
+## 🌐 Live Demo
+
+🔗 [Click here to view the deployed application](https://task-posts.netlify.app/)
 
 
-## ✅ Submission Instructions
-
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Complete all the tasks in the assignment
-4. Commit and push your code regularly to show progress
-5. Include in your repository:
-   - All project files with proper organization
-   - A comprehensive README.md with setup instructions
-   - Screenshots of your application in the README.md
-6. Deploy your application to Vercel, Netlify, or GitHub Pages
-7. Add the deployed URL to your README.md
-8. Your submission will be automatically graded based on the criteria in the autograding configuration
-9. The instructor will review your submission after the autograding is complete
